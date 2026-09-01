@@ -32,4 +32,4 @@ Six-person team. I led the project and owned the ROS 2 environment and the end-t
 
 Looking for a summer 2027 internship in firmware or embedded systems.
 
-📫 &lt;your email&gt;
+📫 &lt;f74146115@gs.ncku.edu.tw&gt;
