@@ -30,6 +30,7 @@ Six-person team. I led the project and owned the ROS 2 environment and the end-t
 
 ### Currently
 
+Learning Verilog and digital design — working through HDLBits.
 Looking for a summer 2027 internship in firmware or embedded systems.
 
 📫 f74146115@gs.ncku.edu.tw
